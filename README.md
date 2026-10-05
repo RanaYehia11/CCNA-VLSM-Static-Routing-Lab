@@ -42,7 +42,7 @@ between two routers.
 | R1 | G0/0/0 | 192.168.5.225 | 255.255.255.252 |
 | R2 | G0/0/0 | 192.168.5.226 | 255.255.255.252 |
 
-## 🛣️ Static Routing
+## Static Routing
 
 ### R1
 
